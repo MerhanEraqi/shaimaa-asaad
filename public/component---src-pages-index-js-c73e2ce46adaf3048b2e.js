@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkshaimaa_asaad=self.webpackChunkshaimaa_asaad||[]).push([[678],{6558:function(a,e,s){s.r(e);var t=s(7294);e.default=()=>t.createElement("main",null,t.createElement("img",{src:"./static/com-soon.svg"}))}}]);
+//# sourceMappingURL=component---src-pages-index-js-c73e2ce46adaf3048b2e.js.map
